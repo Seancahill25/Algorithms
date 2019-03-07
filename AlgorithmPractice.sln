@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hourglasses", "Hourglasses\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheriting", "Inheriting\Inheriting.csproj", "{D139E239-4F1B-4AA0-BFCE-1A85414A7F80}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstraction", "Abstraction\Abstraction.csproj", "{98FFF44A-0E6E-49DE-8BC2-D412C73F663E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{D139E239-4F1B-4AA0-BFCE-1A85414A7F80}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D139E239-4F1B-4AA0-BFCE-1A85414A7F80}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D139E239-4F1B-4AA0-BFCE-1A85414A7F80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98FFF44A-0E6E-49DE-8BC2-D412C73F663E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98FFF44A-0E6E-49DE-8BC2-D412C73F663E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98FFF44A-0E6E-49DE-8BC2-D412C73F663E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98FFF44A-0E6E-49DE-8BC2-D412C73F663E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
