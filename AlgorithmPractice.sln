@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstraction", "Abstraction\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbsoluteDifference", "AbsoluteDifference\AbsoluteDifference.csproj", "{A556361E-3EB4-45CD-A995-AD8970147F6E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedList", "LinkedList\LinkedList.csproj", "{09F2C5E7-4A4B-45CB-BED7-5590CAAF32FA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{A556361E-3EB4-45CD-A995-AD8970147F6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A556361E-3EB4-45CD-A995-AD8970147F6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A556361E-3EB4-45CD-A995-AD8970147F6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09F2C5E7-4A4B-45CB-BED7-5590CAAF32FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09F2C5E7-4A4B-45CB-BED7-5590CAAF32FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09F2C5E7-4A4B-45CB-BED7-5590CAAF32FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09F2C5E7-4A4B-45CB-BED7-5590CAAF32FA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
