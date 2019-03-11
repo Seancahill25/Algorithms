@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbsoluteDifference", "Absol
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedList", "LinkedList\LinkedList.csproj", "{09F2C5E7-4A4B-45CB-BED7-5590CAAF32FA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exceptional", "Exceptional\Exceptional.csproj", "{0E47A56C-2E7A-4ACD-8866-08A015DAAB00}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{09F2C5E7-4A4B-45CB-BED7-5590CAAF32FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{09F2C5E7-4A4B-45CB-BED7-5590CAAF32FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{09F2C5E7-4A4B-45CB-BED7-5590CAAF32FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E47A56C-2E7A-4ACD-8866-08A015DAAB00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E47A56C-2E7A-4ACD-8866-08A015DAAB00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E47A56C-2E7A-4ACD-8866-08A015DAAB00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E47A56C-2E7A-4ACD-8866-08A015DAAB00}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
