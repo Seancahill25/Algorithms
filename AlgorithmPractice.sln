@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedList", "LinkedList\Li
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exceptional", "Exceptional\Exceptional.csproj", "{0E47A56C-2E7A-4ACD-8866-08A015DAAB00}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayingCatch", "PlayingCatch\PlayingCatch.csproj", "{50CD8E14-4613-4057-92C7-ABBF96304304}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{0E47A56C-2E7A-4ACD-8866-08A015DAAB00}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0E47A56C-2E7A-4ACD-8866-08A015DAAB00}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0E47A56C-2E7A-4ACD-8866-08A015DAAB00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50CD8E14-4613-4057-92C7-ABBF96304304}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50CD8E14-4613-4057-92C7-ABBF96304304}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50CD8E14-4613-4057-92C7-ABBF96304304}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50CD8E14-4613-4057-92C7-ABBF96304304}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
