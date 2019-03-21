@@ -37,7 +37,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayingCatch", "PlayingCatc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StacksNQueues", "StacksNQueues\StacksNQueues.csproj", "{68EF3ABE-F95C-4250-9B62-6BC9AA4ED49B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseOrder", "ReverseOrder\ReverseOrder.csproj", "{53E67DDB-FC9E-45A6-8A3B-C1283C089642}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReversedOrder", "ReversedOrder\ReversedOrder.csproj", "{47F3ABCA-A22D-4357-AACD-EE9CA74E5164}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -113,10 +113,10 @@ Global
 		{68EF3ABE-F95C-4250-9B62-6BC9AA4ED49B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{68EF3ABE-F95C-4250-9B62-6BC9AA4ED49B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{68EF3ABE-F95C-4250-9B62-6BC9AA4ED49B}.Release|Any CPU.Build.0 = Release|Any CPU
-		{53E67DDB-FC9E-45A6-8A3B-C1283C089642}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{53E67DDB-FC9E-45A6-8A3B-C1283C089642}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{53E67DDB-FC9E-45A6-8A3B-C1283C089642}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{53E67DDB-FC9E-45A6-8A3B-C1283C089642}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47F3ABCA-A22D-4357-AACD-EE9CA74E5164}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47F3ABCA-A22D-4357-AACD-EE9CA74E5164}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47F3ABCA-A22D-4357-AACD-EE9CA74E5164}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47F3ABCA-A22D-4357-AACD-EE9CA74E5164}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
