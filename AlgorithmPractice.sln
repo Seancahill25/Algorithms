@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StacksNQueues", "StacksNQue
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReversedOrder", "ReversedOrder\ReversedOrder.csproj", "{47F3ABCA-A22D-4357-AACD-EE9CA74E5164}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DomainType", "DomainType\DomainType.csproj", "{09ABC90C-24F8-456D-B006-E32514F52FDF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{47F3ABCA-A22D-4357-AACD-EE9CA74E5164}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{47F3ABCA-A22D-4357-AACD-EE9CA74E5164}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{47F3ABCA-A22D-4357-AACD-EE9CA74E5164}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09ABC90C-24F8-456D-B006-E32514F52FDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09ABC90C-24F8-456D-B006-E32514F52FDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09ABC90C-24F8-456D-B006-E32514F52FDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09ABC90C-24F8-456D-B006-E32514F52FDF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
