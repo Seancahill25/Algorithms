@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReversedOrder", "ReversedOr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DomainType", "DomainType\DomainType.csproj", "{09ABC90C-24F8-456D-B006-E32514F52FDF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RatingThreshold", "RatingThreshold\RatingThreshold.csproj", "{391D63B2-FF5C-460C-8765-D7F2B74DB185}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +125,10 @@ Global
 		{09ABC90C-24F8-456D-B006-E32514F52FDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{09ABC90C-24F8-456D-B006-E32514F52FDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{09ABC90C-24F8-456D-B006-E32514F52FDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{391D63B2-FF5C-460C-8765-D7F2B74DB185}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{391D63B2-FF5C-460C-8765-D7F2B74DB185}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{391D63B2-FF5C-460C-8765-D7F2B74DB185}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{391D63B2-FF5C-460C-8765-D7F2B74DB185}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
