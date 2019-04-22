@@ -53,6 +53,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsItPrime", "IsItPrime\IsIt
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryFineCalculator", "LibraryFineCalculator\LibraryFineCalculator.csproj", "{87D1A7D5-DB20-4A2B-B87D-128E153EBEAC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortingEmails", "SortingEmails\SortingEmails.csproj", "{970FBA5C-A1D4-420A-9570-F840553D9580}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -159,6 +161,10 @@ Global
 		{87D1A7D5-DB20-4A2B-B87D-128E153EBEAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{87D1A7D5-DB20-4A2B-B87D-128E153EBEAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{87D1A7D5-DB20-4A2B-B87D-128E153EBEAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{970FBA5C-A1D4-420A-9570-F840553D9580}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{970FBA5C-A1D4-420A-9570-F840553D9580}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{970FBA5C-A1D4-420A-9570-F840553D9580}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{970FBA5C-A1D4-420A-9570-F840553D9580}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
