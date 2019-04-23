@@ -55,6 +55,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryFineCalculator", "Li
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortingEmails", "SortingEmails\SortingEmails.csproj", "{970FBA5C-A1D4-420A-9570-F840553D9580}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RotateAnImage", "RotateAnImage\RotateAnImage.csproj", "{7930C0F3-76F0-42FC-A351-738095B99125}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -165,6 +167,10 @@ Global
 		{970FBA5C-A1D4-420A-9570-F840553D9580}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{970FBA5C-A1D4-420A-9570-F840553D9580}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{970FBA5C-A1D4-420A-9570-F840553D9580}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7930C0F3-76F0-42FC-A351-738095B99125}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7930C0F3-76F0-42FC-A351-738095B99125}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7930C0F3-76F0-42FC-A351-738095B99125}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7930C0F3-76F0-42FC-A351-738095B99125}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
