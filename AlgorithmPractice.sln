@@ -63,6 +63,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShapeArea", "ShapeArea\Shap
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlmostIncreasingSequence", "AlmostIncreasingSequence\AlmostIncreasingSequence.csproj", "{274D85E0-0C8A-4C26-9DC6-9E02C5708042}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsecutiveArray", "ConsecutiveArray\ConsecutiveArray.csproj", "{98CEF11C-F9AB-48FD-B86A-E65B650538F9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -189,6 +191,10 @@ Global
 		{274D85E0-0C8A-4C26-9DC6-9E02C5708042}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{274D85E0-0C8A-4C26-9DC6-9E02C5708042}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{274D85E0-0C8A-4C26-9DC6-9E02C5708042}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98CEF11C-F9AB-48FD-B86A-E65B650538F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98CEF11C-F9AB-48FD-B86A-E65B650538F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98CEF11C-F9AB-48FD-B86A-E65B650538F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98CEF11C-F9AB-48FD-B86A-E65B650538F9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
