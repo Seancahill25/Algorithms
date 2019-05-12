@@ -67,6 +67,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsecutiveArray", "Consecu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixElementsSum", "MatrixElementsSum\MatrixElementsSum.csproj", "{6F286A75-21B6-459B-882B-C442D4F58479}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestStrings", "LongestStrings\LongestStrings.csproj", "{3CAE64C2-6E62-412D-A59B-86193BB80FE6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -201,6 +203,10 @@ Global
 		{6F286A75-21B6-459B-882B-C442D4F58479}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6F286A75-21B6-459B-882B-C442D4F58479}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6F286A75-21B6-459B-882B-C442D4F58479}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CAE64C2-6E62-412D-A59B-86193BB80FE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CAE64C2-6E62-412D-A59B-86193BB80FE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CAE64C2-6E62-412D-A59B-86193BB80FE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CAE64C2-6E62-412D-A59B-86193BB80FE6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
